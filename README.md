@@ -1,2 +1,3 @@
 # hello-world
-my github 練習
+my github 第一次練習
+我是資管系
